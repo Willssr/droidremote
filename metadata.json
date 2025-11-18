@@ -1,0 +1,8 @@
+{
+  "name": "DroidRemote Sim",
+  "description": "A high-fidelity web simulator for an Android Remote Access application, demonstrating permission flows, screen capture via WebRTC, and AI-assisted screen analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
